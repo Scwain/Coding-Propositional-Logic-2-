@@ -1,1 +1,1 @@
-# Coding-Propositional-Logic-2-
+# Coding-Propositional-Logic-
